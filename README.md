@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @quantum-corn. Check out my [site](https://www.brokenbricks.netlify.app)
-   - I am a physics graduate with an immense interest in computers. I have worked with Python, Java, C, HTML, CSS, JavaScript, SQL, Arduino, Latex, etc. I run a Linux - Windows dual boot Machine.
-- 👀 I’m interested in learning new things, whatever that may be.
-- 🌱 I’m currently learning physics, more Javascript, python libraries and Quantum Computing.
-- 💞️ I’m eager to collaborate on anything else where I can learn as well as contribute.
-<!---
-quantum-corn/quantum-corn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Welcome
+
+---
+
+I am a physics graduate from India. The years in college and after left me in a bad place in life, when I decided to become a software developer because I always knew  I love coding as much as I love physics. I believe the two ae not very different. Pure logic and abstraction take up tangible forms in programs and physics is just the art of unraveling the code of the massive codebase that is the universe, one line at a time. Fascinating to think that we ourselves are part of that program. Isn't it like some fascinating AI that writes its own code, keeps learning and keeps getting better. I had some previous programming experiences which only made me want more.
+
+---
+
+### What I have learned
+
+---
+
+- **Languages**
+   - Java
+   - Python
+   - C
+   - HTML/CSS
+   - JavaScript
+   - SQL
+- **Others**
+   - LaTeX
+   - Arduino
+   - Linux
