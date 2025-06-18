@@ -26,3 +26,10 @@ I am a physics graduate from India. After graduating I decided to become a softw
   - LaTeX
   - Arduino
   - Linux
+
+## Support Me
+
+---
+
+[![buymeacoffee](<https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=quantumcorn&button_colour=bf1d55&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00>)](https://www.buymeacoffee.com/quantumcorn)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7O37GT)
